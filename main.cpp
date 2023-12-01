@@ -11,7 +11,7 @@ int main()
 	bool status = chessBoard.Solve(chessBoard,0);
 	if(!status)
 	{
-		cout << "No solution found"  << endl;
+		cout << "No solution found "  << endl;
 	}
 	
 
